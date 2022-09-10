@@ -1,5 +1,5 @@
 ### import library
-import stramlit as st
+import streamlit as st
 
 
 ### write your app
